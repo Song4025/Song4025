@@ -4,7 +4,8 @@ I'm front engineer from South Korea!
 Here is my portfolio
 
 ## React JS
-- https://slm-fmr.kblife.co.kr/login/first
+KB Life's SaLes Manger Page
+- https://slm-fmr.kblife.co.kr/
 <!--
 **Song4025/Song4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
